@@ -1,1 +1,1 @@
-worker: python3 setup.py --help-commands
+worker: python3 setup.py install
